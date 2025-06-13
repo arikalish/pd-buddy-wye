@@ -13,3 +13,6 @@
 # Autorouter files (exported from Pcbnew)
 .dsn
 
+
+*.orig
+pd-buddy-wye-backups/*
